@@ -63,6 +63,11 @@ BadSolution – наивное решение с вложенными цикла
 GoodSolution – эффективное решение с скользящим окном (sliding window) (O(n)).
 ```
 
+**#DictionaryOperations**
+```
+Программа создаёт словарь, добавляет в него три элемента, проверяет наличие одного из них, удаляет его и выводит оставшиеся данные.
+```
+
 ## Developers
 
 - [Kabakov Ivan](https://github.com/Kabakov-Ivan)
