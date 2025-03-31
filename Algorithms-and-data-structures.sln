@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Programs\Independe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOperations", "Programs\Practices\DictionaryOperations\DictionaryOperations.csproj", "{927371BB-2648-45F5-9B89-D0F4349EE000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDictionary", "Programs\Practices\SmartDictionary\SmartDictionary.csproj", "{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{927371BB-2648-45F5-9B89-D0F4349EE000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927371BB-2648-45F5-9B89-D0F4349EE000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927371BB-2648-45F5-9B89-D0F4349EE000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{E5782E64-ED87-4569-8F0A-CC8937838DF7} = {80F2F277-1AB5-478D-90DA-F63F72AFE663}
 		{070E6971-834A-4A59-93BD-C837CF23B04B} = {80F2F277-1AB5-478D-90DA-F63F72AFE663}
 		{927371BB-2648-45F5-9B89-D0F4349EE000} = {8482BDAE-6EC3-4177-A275-E2FDC010CFD2}
+		{5D3CD9AD-D958-49DC-BEBD-37AB3FA6FD94} = {8482BDAE-6EC3-4177-A275-E2FDC010CFD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96B86E49-D8EA-40CD-8FD0-D893311FBAD7}
